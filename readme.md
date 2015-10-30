@@ -1,11 +1,11 @@
 #Module: Quickview Simple
--Article: Gia Hoang
--Opensource: Magento 1.9.x
+- Article: Gia Hoang
+- Opensource: Magento 1.9.x
 
 #Description
 Quick view product in catalog list
 
-#Install:
+#Install
 - Copy all file to your project
 
 - Install library
