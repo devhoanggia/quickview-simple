@@ -1,4 +1,4 @@
-3Module: Quickview Simple
+#Module: Quickview Simple
 #Article: Gia Hoang
 #Opensource: Magento 1.9.x
 
