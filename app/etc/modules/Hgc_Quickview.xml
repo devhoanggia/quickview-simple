@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Hgc_Quickview>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Hgc_Quickview>
+    </modules>
+</config>
