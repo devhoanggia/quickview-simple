@@ -14,7 +14,8 @@ Quick view product in catalog list
   ```
   Extension required jquery and bootstrap
 
-- Add line code to your template.
+- Add line code to your template
+
   Here, I put to file :
   ```sh
   app/design/frontend/rwd/default/template/catalog/product/list.phtml
