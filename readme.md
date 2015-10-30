@@ -22,12 +22,9 @@ Quick view product in catalog list
   ```
   Inside tag
   ```sh
-  <ul class="add-to-links">(List Mode)
+  <ul class="add-to-links">(List Mode) and <ul class="add-to-links">(Grid Mode)
   ```
-  and
-  ```sh
-  <ul class="add-to-links">(Grid Mode)
-  ```
+
   add this code
   ```sh
     <li>
