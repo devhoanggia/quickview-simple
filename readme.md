@@ -1,8 +1,8 @@
-*Module: Quickview Simple*
-*Article: Gia Hoang*
-*Opensource: Magento 1.9.x*
+-Module: Quickview Simple
+-Article: Gia Hoang
+-Opensource: Magento 1.9.x
 
-Description
+-Description
 Quick view product in catalog list
 
 Install:
