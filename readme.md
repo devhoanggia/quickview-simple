@@ -27,7 +27,7 @@ Quick view product in catalog list
   ```sh
   <ul class="add-to-links">(Grid Mode)
   ```
-
+  add this code
   ```sh
     <li>
       <a href="#quickViewModal"  data-toggle="modal"  class="quick-view-link" data-url="<?php echo Mage::getBaseUrl(), 'quickview/quickview/view/id/', $_product->getId() ?>/"><?php echo $this->__('Quick View') ?></a>
